@@ -1,2 +1,4 @@
 This script is a collection a algorithms that evaluate and plot the data obtained in high voltage electrode tests. It was made for the bachelors thesis of Valentin Münz.
 In the scope of the bachelors thesis several diffently treated meshes were tested for, among other things, their breakdown field, by ramping the voltage up by a steady rate until breakdown occurs. One such a test is called a ramp. This was done several times for each treatment, with the totality of ramps for one treatment being called a campaign. Every campaign has a json file that contains information about it such as the date, number of ramps and location of the different files. Along with csv files containing the voltage and current over time there was also humidity and video data taken, which is also linked in the json file.
+
+Parts of this scropt use previous work by Sebastian Vetter.
