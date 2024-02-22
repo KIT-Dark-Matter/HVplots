@@ -1,0 +1,11 @@
+{
+    "id" : "RG" ,
+    "date":"2023_12_20" ,
+    "image path" : "C:\\Users\\valen\\Bachelorarbeit\\hv_image_processing\\run_data\\20_12_2023\\RG\\RG_video" ,
+    "hv_path" : "untreated" ,
+    "humiditydata" : "20_12_2023_humidity.txt" ,
+    "nr-of-runs" : 5 ,
+    "datafiles" : ["Daten_20.12.2023_RG_ramp0.csv","Daten_20.12.2023_RG_ramp1.csv","Daten_20.12.2023_RG_ramp2.csv","Daten_20.12.2023_RG_ramp3.csv","Daten_20.12.2023_RG_ramp4.csv"
+    ]
+    
+}
